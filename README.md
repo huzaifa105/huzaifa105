@@ -54,5 +54,3 @@ I am Computer Science Student  <img src="https://media.giphy.com/media/WUlplcMpO
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=talhaStti&theme=dark&background=000000)](https://git.io/streak-stats)
